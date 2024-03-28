@@ -64,7 +64,7 @@ npm start
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/eltonbata/first-react-app/master/LICENSE.md) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/eltonbata/first-react-app/master/LICENSE) for more information.
 
 ## Acknowledgements
 
