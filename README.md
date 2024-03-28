@@ -56,10 +56,10 @@ git clone https://github.com/eltonbata/first-react-app.git
 npm install
 ```
 
-3. Start React App
+3. Run React App
 
 ```sh
-npm start
+npm run dev
 ```
 
 ## License
